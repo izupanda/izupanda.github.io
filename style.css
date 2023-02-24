@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+
+*{
+  margin: 0;
+}
+
+
+
+.flex{
+  display: flex;
+}
+
+.container{
+  border: 2px solid blue;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+
+}
+
+header{
+  background-color: orange;
+}
